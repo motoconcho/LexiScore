@@ -1,2 +1,2 @@
 # LexiScore
-page for URL required by Apple distribution system
+page for URLs and Docs required by Apple distribution system for LexisScore app
